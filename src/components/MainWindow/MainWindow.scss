@@ -1,0 +1,52 @@
+@import "../../variables.scss";
+
+.main-window {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+	position: relative;
+	height: 700px;
+	width: 1100px;
+	background-color: $wrapper-color;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+	&__filters-list {
+		position: absolute;
+		top: 30px;
+		left: 20px;
+		display: inline-block;
+		overflow: hidden;
+		border-radius: 10px;
+		border: 2px solid $main-color;
+		&__button {
+			cursor: pointer;
+			transition: 0.4s;
+			background-color: $wrapper-color;
+			color: $main-color;
+			border: none;
+			padding: 8px 20px;
+			font-weight: 800;
+			font-size: 15px;
+			&.active {
+				background-color: $main-color;
+				color: $wrapper-color;
+			}
+		}
+	}
+	&__task-info {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+		text-align: right;
+		&__number {
+			color: $sub-color;
+			font-size: 20px;
+			font-weight: 700;
+		}
+		&__name {
+			color: $main-color;
+			font-size: 30px;
+			font-weight: 900;
+		}
+	}
+}

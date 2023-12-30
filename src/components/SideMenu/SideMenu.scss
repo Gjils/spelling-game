@@ -1,0 +1,64 @@
+@import "../../variables.scss";
+
+.side-menu {
+	position: fixed;
+  top: 40px;
+  left: 40px;
+	overflow: hidden;
+	border-radius: 10px;
+	background-color: $wrapper-color;
+	width: 330px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+	&__header {
+		color: $wrapper-color;
+		background-color: $main-color;
+		padding: 40px 10px 10px 10px;
+		font-weight: 900;
+		font-size: 25px;
+		text-align: right;
+	}
+	&__options-list {
+		padding: 0 0 20px 25px;
+		&__item {
+      cursor: pointer;
+      width: 100%;
+      border: none;
+			margin-top: 20px;
+			padding: 20px 10px;
+			border-radius: 10px 0 0 10px;
+			text-align: right;
+			box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+			.task-number {
+				color: $sub-color;
+				font-size: 15px;
+				font-weight: 700;
+			}
+			.task-name {
+        color: $main-color;
+				font-size: 20px;
+				font-weight: 800;
+			}
+			&.active {
+				pointer-events: none;
+				background-color: $main-color;
+				.task-number {
+					color: $back-color;
+				}
+				.task-name {
+					color: $wrapper-color;
+				}
+			}
+			&:hover {
+        opacity: .8;
+        transition: .4s;
+				background-color: $main-color;
+				.task-number {
+					color: $back-color;
+				}
+				.task-name {
+					color: $wrapper-color;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+@import "../../variables.scss";
+
+.next-button {
+  border-radius: 10px;
+  border: none;
+  padding: 20px 30px;
+  font-size: 20px;
+  font-weight: 700;
+  color: $wrapper-color;
+  background-color: #e63244;
+}

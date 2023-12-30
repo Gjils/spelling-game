@@ -1,0 +1,18 @@
+@import "../../variables.scss";
+
+.word {
+	display: flex;
+	color: $main-color;
+	font-size: 80px;
+	font-weight: 900;
+	&__letter {
+		padding: 5px;
+		&.missed {
+			color: #a8e4a0;
+		}
+	}
+}
+.options {
+	position: absolute;
+	bottom: 100px;
+}
