@@ -73,7 +73,7 @@ export default class MainWindow extends Component {
 	};
 
 	componentDidMount() {
-		fetch(`data/task-${this.props.activeTask.number}/words.json`)
+		fetch(`/data/task-${this.props.activeTask.number}/words.json`)
 			.then((data) => data.json())
 			.then((data) => {
 				this.setState({
@@ -91,7 +91,7 @@ export default class MainWindow extends Component {
 					},
 				});
 			});
-		fetch(`data/task-${this.props.activeTask.number}/filters.json`)
+		fetch(`/data/task-${this.props.activeTask.number}/filters.json`)
 			.then((data) => data.json())
 			.then((data) => {
 				this.setState({

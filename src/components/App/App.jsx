@@ -35,7 +35,7 @@ export default class App extends Component {
 		this.setState({
 			activeTask: index,
 		});
-	};
+	};	
 
 	componentDidMount() {
 		fetch("data/tasks-list.json")
