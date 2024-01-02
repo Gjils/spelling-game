@@ -38,7 +38,7 @@ export default class App extends Component {
 	};
 
 	componentDidMount() {
-		fetch("src/assets/data/tasks-list.json")
+		fetch("data/tasks-list.json")
 			.then((data) => data.json())
 			.then((data) => {
 				this.setState({
