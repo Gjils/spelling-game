@@ -9,6 +9,9 @@ export default class App extends Component {
 		super(props);
 		this.state = {
 			activeTask: 0,
+			tasks: {
+				loaded: false,
+			},
 			stats: {
 				correct: 0,
 				common: 0,
@@ -24,7 +27,7 @@ export default class App extends Component {
 			}
 			newStats.common += 1;
 			console.log(newStats);
-			return {stats: newStats};
+			return { stats: newStats };
 		});
 	};
 
@@ -33,40 +36,53 @@ export default class App extends Component {
 			activeTask: index,
 		});
 	};
+
+	componentDidMount() {
+		fetch("src/assets/data/tasks-list.json")
+			.then((data) => data.json())
+			.then((data) => {
+				this.setState({
+					tasks: {
+						loaded: true,
+						data: data,
+					},
+				});
+			})
+			.catch((error) => {
+				this.setState({
+					tasks: {
+						loaded: true,
+						error,
+					},
+				});
+			});
+	}
+
 	render() {
-		const { activeTask, stats } = this.state;
-		const tasksList = [
-			{
-				name: "Правописание корней",
-				number: 9,
-			},
-			{
-				name: "Правописание приставок",
-				number: 10,
-			},
-			{
-				name: "Правописание суффикосов",
-				number: 11,
-			},
-			{
-				name: "Правописание глаголов",
-				number: 12,
-			},
-		];
-		return (
-			<>
-				<SideMenu
-					tasksList={tasksList}
-					activeTask={activeTask}
-					switchActiveTask={this.switchActiveTask}
-				/>
-				<MainWindow
-					activeTask={tasksList[activeTask]}
-					updateStats={this.updateStats}
-					answersCount={stats.common}
-				/>
-				<Score stats={stats} />
-			</>
-		);
+		const { activeTask, tasks, stats } = this.state;
+		let appContainer;
+		if (tasks.loaded && !tasks.error) {
+			appContainer = (
+				<>
+					<SideMenu
+						tasksList={tasks.data}
+						activeTask={activeTask}
+						switchActiveTask={this.switchActiveTask}
+					/>
+					<MainWindow
+						key={activeTask}
+						activeTask={tasks.data[activeTask]}
+						updateStats={this.updateStats}
+						answersCount={stats.common}
+					/>
+					<Score stats={stats} />
+				</>
+			);
+		} else if (tasks.loaded && tasks.error) {
+			appContainer = <div>Извините, произошла ошибка</div>;
+		} else {
+			appContainer = <div>Загрузка</div>;
+		}
+		return <>{appContainer}</>;
 	}
 }

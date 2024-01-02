@@ -1,0 +1,16 @@
+[
+	{
+		"word": "аккомпанировать",
+		"missedIndex": 3,
+		"missedLetter": "о",
+		"options": ["о", "а"],
+		"type": ["Непроверяемые"]
+	},
+	{
+		"word": "абaжyp",
+		"missedIndex": 4,
+		"missedLetter": "у",
+		"options": ["у", "ю"],
+		"type": ["Непроверяемые"]
+	}
+]
