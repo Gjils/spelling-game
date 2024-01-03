@@ -8,6 +8,7 @@
 	border-radius: 10px;
 	background-color: $wrapper-color;
 	width: 330px;
+	max-height: 90%;
 	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
 	&__header {
 		color: $wrapper-color;
@@ -20,6 +21,7 @@
 	}
 	&__options-list {
 		padding: 0 0 20px 25px;
+		border-radius: 0 0 10px 10px;
 		&__item {
 			cursor: pointer;
 			width: 100%;
@@ -62,9 +64,9 @@
 			}
 		}
 	}
-	&__close-button {
-		display: none;
-	}
+	// &__close-button {
+	// 	display: none;
+	// }
 }
 .open-side-menu {
 	display: none;
@@ -88,15 +90,15 @@
 		background-color: transparent;
 		display: block;
 		position: absolute;
-		top: 30px;
-		left: 30px;
+		top: 20px;
+		left: 10px;
 		img {
 			width: 30px;
 			height: 30px;
 		}
 	}
 	.side-menu {
-		overflow: visible;
+		overflow: auto;
 		transition: transform 0.5s ease-in-out;
 		max-width: 1000px;
 		width: 95%;
@@ -121,17 +123,24 @@
 				}
 			}
 		}
-		&__close-button {
-			pointer-events: none;
-			display: block;
-			height: 0;
-			overflow: visible;
-			position: relative;
-			bottom: -20px;
-			font-size: 15px;
-			font-weight: 700;
-			color: $sub-color;
-			text-align: center;
-		}
+		// &__close-button {
+		// 	pointer-events: none;
+		// 	display: block;
+		// 	height: 0;
+		// 	overflow: visible;
+		// 	position: relative;
+		// 	bottom: -20px;
+		// 	font-size: 15px;
+		// 	font-weight: 700;
+		// 	color: $sub-color;
+		// 	text-align: center;
+		// }
+	}
+}
+
+@media screen and (max-width: 1180px) {
+	.open-side-menu {
+		top: 35px;
+		left: 35px;
 	}
 }

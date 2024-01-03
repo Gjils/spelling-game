@@ -1,28 +1,41 @@
 @import "../../variables.scss";
 
 .word {
+	justify-content: center;
 	display: flex;
+	flex-wrap: wrap;
 	color: $main-color;
 	font-size: 80px;
 	font-weight: 900;
 	&__letter {
+		user-select: none;
 		padding: 5px;
 		&.missed {
 			color: #a8e4a0;
 		}
 	}
+	&__context {
+		font-size: 70px;
+		color: $sub-color;
+		width: 100%;
+		text-align: center;
+	}
 }
 .options {
-	position: absolute;
-	bottom: 100px;
+	user-select: none;
+	height: 100px;
+	display: flex;
+	align-items: center
 }
 
 @media screen and (max-width: 1880px) {
 	.word {
-		font-size: 6vw;
-		flex-wrap: wrap;
+		font-size: min(8vw, 80px);
 		&__letter {
 			padding: 0.5vw;
+		}
+		&__context {
+			font-size: 6vw;
 		}
 	}
 }

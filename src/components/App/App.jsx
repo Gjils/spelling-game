@@ -3,6 +3,8 @@ import { Component } from "react";
 import SideMenu from "../SideMenu/SideMenu";
 import MainWindow from "../MainWindow/MainWindow";
 import Score from "../Score/Score";
+import Loading from "../Loading/Loading";
+import OrientationCheck from "../OrientationCheck/OrientationCheck";
 
 export default class App extends Component {
 	constructor(props) {
@@ -15,6 +17,7 @@ export default class App extends Component {
 			stats: {
 				correct: 0,
 				common: 0,
+				streak: 0,
 			},
 		};
 	}
@@ -24,9 +27,11 @@ export default class App extends Component {
 			const newStats = { ...stats };
 			if (isCorrect) {
 				newStats.correct += 1;
+				newStats.streak += 1;
+			} else {
+				newStats.streak = 0;
 			}
 			newStats.common += 1;
-			console.log(newStats);
 			return { stats: newStats };
 		});
 	};
@@ -35,7 +40,7 @@ export default class App extends Component {
 		this.setState({
 			activeTask: index,
 		});
-	};	
+	};
 
 	componentDidMount() {
 		fetch("data/tasks-list.json")
@@ -81,8 +86,13 @@ export default class App extends Component {
 		} else if (tasks.loaded && tasks.error) {
 			appContainer = <div>Извините, произошла ошибка</div>;
 		} else {
-			appContainer = <div>Загрузка</div>;
+			appContainer = <Loading />;
 		}
-		return <>{appContainer}</>;
+		return (
+			<>
+				<OrientationCheck />
+				{appContainer}
+			</>
+		);
 	}
 }

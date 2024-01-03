@@ -1,0 +1,22 @@
+@import "../../variables.scss";
+
+.orientation-check {
+	display: none;
+}
+
+@media screen and (max-height: 400px) {
+	.orientation-check {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+		width: 100vw;
+		height: 100vh;
+		background-color: $wrapper-color;
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 102;
+    font-size: 30px;
+    font-weight: 700;
+	}
+}

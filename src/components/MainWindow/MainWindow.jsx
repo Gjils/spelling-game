@@ -1,6 +1,7 @@
 import { Component } from "react";
 
 import Word from "../Word/Word";
+import Loading from "../Loading/Loading";
 
 import "./MainWindow.scss";
 
@@ -21,6 +22,25 @@ export default class MainWindow extends Component {
 			},
 		};
 	}
+	shuffle = (array) => {
+		let currentIndex = array.length,
+			randomIndex;
+
+		// While there remain elements to shuffle.
+		while (currentIndex > 0) {
+			// Pick a remaining element.
+			randomIndex = Math.floor(Math.random() * currentIndex);
+			currentIndex--;
+
+			// And swap it with the current element.
+			[array[currentIndex], array[randomIndex]] = [
+				array[randomIndex],
+				array[currentIndex],
+			];
+		}
+
+		return array;
+	};
 
 	chageFiltersActivity = (changedIndex) => {
 		this.setState(({ filters }) => {
@@ -85,7 +105,7 @@ export default class MainWindow extends Component {
 				this.setState({
 					words: {
 						loaded: true,
-						data: data,
+						data: this.shuffle(data),
 					},
 				});
 			})
@@ -132,7 +152,14 @@ export default class MainWindow extends Component {
 				}
 			});
 			if (visibleWords.length === 0) {
-				wordContainer = <div>Извините, слов по таким фильтрам нет</div>;
+				wordContainer = (
+					<>
+						<div className="main-window__error-message">
+							Слов по таким фильтрам нет
+						</div>
+						<div className="placeholder"></div>
+					</>
+				);
 			} else {
 				wordContainer = (
 					<Word
@@ -145,10 +172,21 @@ export default class MainWindow extends Component {
 				);
 			}
 		} else if (words.loaded && words.error) {
-			console.log(words.error);
-			wordContainer = <div>Извините, произошла ошибка</div>;
+			wordContainer = (
+				<>
+					<div className="main-window__error-message">
+						Извините, произошла ошибка
+					</div>
+					<div className="placeholder"></div>
+				</>
+			);
 		} else {
-			wordContainer = <div>Загрузка</div>;
+			wordContainer = (
+				<>
+					<Loading />
+					<div className="placeholder"></div>
+				</>
+			);
 		}
 
 		let filtersContainer = <></>;

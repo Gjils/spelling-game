@@ -51,7 +51,7 @@ export default class SideMenu extends Component {
 							</button>
 						))}
 					</div>
-					<div className="side-menu__close-button">Закрыть</div>
+					{/* <div className="side-menu__close-button">Закрыть</div> */}
 				</div>
 			</>
 		);
