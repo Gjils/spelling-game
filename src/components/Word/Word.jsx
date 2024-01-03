@@ -48,7 +48,11 @@ export default class Word extends Component {
 								: item}
 						</div>
 					))}
-					{context !== "" ? <div className="word__context">{" (" + context + ")"}</div> : ""}
+					{context != "" ? (
+						<div className="word__context">{"(" + context + ")"}</div>
+					) : (
+						""
+					)}
 				</div>
 				<div className="options">{optionsContent}</div>
 			</>
