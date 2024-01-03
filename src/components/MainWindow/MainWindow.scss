@@ -1,12 +1,14 @@
 @import "../../variables.scss";
 
 .main-window {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	position: relative;
-	height: 700px;
-	width: 1100px;
+	max-height: 700px;
+	height: 95%;
+	max-width: 1100px;
+	width: 95%;
 	background-color: $wrapper-color;
 	border-radius: 10px;
 	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
@@ -34,9 +36,9 @@
 		}
 	}
 	&__task-info {
-    position: absolute;
-    right: 20px;
-    top: 20px;
+		position: absolute;
+		right: 20px;
+		top: 20px;
 		text-align: right;
 		&__number {
 			color: $sub-color;
@@ -48,5 +50,30 @@
 			font-size: 30px;
 			font-weight: 900;
 		}
+	}
+}
+
+@media screen and (max-width: 900px) {
+	.main-window {
+		margin-bottom: 10px;
+		border-radius: 0 0 10px 10px;
+		box-shadow: none;
+		&__filters-list {
+			top: 20px;
+			width: 150px;
+			&__button {
+				width: 100%;
+				font-size: 15px;
+				padding: 5px;
+			}
+		}
+	}
+}
+
+@media screen and (max-width: 1880px) {
+	.main-window {
+		margin-bottom: 10px;
+		border-radius: 0 0 10px 10px;
+		box-shadow: none;
 	}
 }

@@ -1,6 +1,7 @@
 @import "../../variables.scss";
 
 .option {
+	cursor: pointer;
 	transition: 0.4s;
 	padding: 0 15px 15px 15px;
 	border: none;
@@ -13,5 +14,12 @@
 	font-size: 60px;
 	&:hover {
 		color: #a8e4a0;
+	}
+}
+
+@media screen and (max-width: 900px) {
+	.option {
+		font-size: 35px;
+		padding: 0 10px 5px 10px;
 	}
 }

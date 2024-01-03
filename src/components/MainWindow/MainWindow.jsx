@@ -17,6 +17,7 @@ export default class MainWindow extends Component {
 			answerStatus: {
 				answered: false,
 				choosen: "",
+				handled: false,
 			},
 		};
 	}
@@ -43,24 +44,29 @@ export default class MainWindow extends Component {
 
 	showNextWord = (isCorrect) => {
 		this.props.updateStats(isCorrect);
-		this.setState(({ words, answersCount }) => {
-			const currentWord = words.data[0];
-			const newWords = [...words.data];
-			newWords.splice(0, 1);
-			if (isCorrect || newWords.length < 15) {
-				newWords.push(currentWord);
-			} else {
-				newWords.splice(15, 0, currentWord);
-			}
-			return {
-				words: {
-					loaded: true,
-					data: newWords,
-				},
-				answersCount: answersCount + 1,
-				answerStatus: { answered: false, choosen: "" },
-			};
-		});
+		this.setState((state) => ({
+			answerStatus: { ...state.answerStatus, handled: true },
+		}));
+		setTimeout(() => {
+			this.setState(({ words, answersCount }) => {
+				const currentWord = words.data[0];
+				const newWords = [...words.data];
+				newWords.splice(0, 1);
+				if (isCorrect || newWords.length < 15) {
+					newWords.push(currentWord);
+				} else {
+					newWords.splice(15, 0, currentWord);
+				}
+				return {
+					words: {
+						loaded: true,
+						data: newWords,
+					},
+					answersCount: answersCount + 1,
+					answerStatus: { answered: false, choosen: "", handled: false },
+				};
+			});
+		}, 300);
 	};
 
 	setAnswer = (item) => {

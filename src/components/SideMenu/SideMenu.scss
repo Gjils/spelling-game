@@ -2,27 +2,28 @@
 
 .side-menu {
 	position: fixed;
-  top: 40px;
-  left: 40px;
+	top: 40px;
+	left: 40px;
 	overflow: hidden;
 	border-radius: 10px;
 	background-color: $wrapper-color;
 	width: 330px;
-  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
 	&__header {
 		color: $wrapper-color;
 		background-color: $main-color;
 		padding: 40px 10px 10px 10px;
 		font-weight: 900;
+		border-radius: 10px 10px 0 0;
 		font-size: 25px;
 		text-align: right;
 	}
 	&__options-list {
 		padding: 0 0 20px 25px;
 		&__item {
-      cursor: pointer;
-      width: 100%;
-      border: none;
+			cursor: pointer;
+			width: 100%;
+			border: none;
 			margin-top: 20px;
 			padding: 20px 10px;
 			border-radius: 10px 0 0 10px;
@@ -34,7 +35,7 @@
 				font-weight: 700;
 			}
 			.task-name {
-        color: $main-color;
+				color: $main-color;
 				font-size: 20px;
 				font-weight: 800;
 			}
@@ -49,8 +50,8 @@
 				}
 			}
 			&:hover {
-        opacity: .8;
-        transition: .4s;
+				opacity: 0.8;
+				transition: 0.4s;
 				background-color: $main-color;
 				.task-number {
 					color: $back-color;
@@ -59,6 +60,78 @@
 					color: $wrapper-color;
 				}
 			}
+		}
+	}
+	&__close-button {
+		display: none;
+	}
+}
+.open-side-menu {
+	display: none;
+}
+
+@media screen and (max-width: 1880px) {
+	.undercover {
+		display: none;
+		&.active {
+			display: block;
+			position: absolute;
+			width: 100vw;
+			height: 100vh;
+			background-color: black;
+			opacity: 0.4;
+			z-index: 99;
+		}
+	}
+	.open-side-menu {
+		border: none;
+		background-color: transparent;
+		display: block;
+		position: absolute;
+		top: 30px;
+		left: 30px;
+		img {
+			width: 30px;
+			height: 30px;
+		}
+	}
+	.side-menu {
+		overflow: visible;
+		transition: transform 0.5s ease-in-out;
+		max-width: 1000px;
+		width: 95%;
+		z-index: 100;
+		top: 20px;
+		right: 0;
+		left: 0;
+		margin: auto;
+		&.collapsed {
+			transform: translate(0, -700px);
+		}
+		&__header {
+			text-align: center;
+		}
+		&__options-list {
+			padding-right: 20px;
+			&__item {
+				border-radius: 10px;
+				text-align: center;
+				&.active {
+					pointer-events: all;
+				}
+			}
+		}
+		&__close-button {
+			pointer-events: none;
+			display: block;
+			height: 0;
+			overflow: visible;
+			position: relative;
+			bottom: -20px;
+			font-size: 15px;
+			font-weight: 700;
+			color: $sub-color;
+			text-align: center;
 		}
 	}
 }

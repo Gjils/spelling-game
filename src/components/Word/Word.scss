@@ -16,3 +16,13 @@
 	position: absolute;
 	bottom: 100px;
 }
+
+@media screen and (max-width: 1880px) {
+	.word {
+		font-size: 6vw;
+		flex-wrap: wrap;
+		&__letter {
+			padding: 0.5vw;
+		}
+	}
+}
