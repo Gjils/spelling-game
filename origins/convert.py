@@ -18,7 +18,7 @@ options = {
   "р": [],
   
 }
-with open("origins/9.txt", "r", encoding="utf-8") as file:
+with open("9.txt", "r", encoding="utf-8") as file:
   text = [i[:-1] for i in file.readlines()]
   words_list = []
   for i in text: 
