@@ -4,7 +4,6 @@ import LetterOptions from "../LetterOptions/LetterOptions";
 import NextButton from "../NextButton/NextButton";
 
 import "./Word.scss";
-
 export default class Word extends Component {
 	constructor(props) {
 		super(props);
@@ -31,6 +30,7 @@ export default class Word extends Component {
 				<NextButton showNextWord={showNextWord} handled={handled} />
 			);
 		}
+
 		return (
 			<>
 				<div className={`word ${handled ? "fadeout" : ""}`}>
