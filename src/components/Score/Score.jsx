@@ -6,7 +6,6 @@ export default function Score({ stats }) {
 	if (streak >= 3) {
 		streakContent = (
 			<>
-				Серия из{" "}
 				{streak}
 				<img src="fire.gif" alt="fire" />!
 			</>
@@ -14,7 +13,7 @@ export default function Score({ stats }) {
 	}
 	return (
 		<div className="score">
-			<div className="score__label">Счет:</div>
+			{/* <div className="score__label">Счет:</div> */}
 			<div className="score__common">
 				{correct}/{common}
 			</div>

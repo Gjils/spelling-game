@@ -13,7 +13,7 @@ module.exports = {
 	plugins: ["react-refresh"],
 	rules: {
 		"no-unused-vars": ["warn"],
-		"react/prop-types": [1],
+		"react/prop-types": [0],
 		"react/react-in-jsx-scope": "off",
 		"react/jsx-uses-react": "off",
 		"linebreak-style": ["off", "unix"],

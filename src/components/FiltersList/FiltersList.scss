@@ -1,0 +1,80 @@
+@import "../../variables.scss";
+
+.filters-list {
+	position: absolute;
+	top: 30px;
+	left: 20px;
+	display: inline-block;
+	overflow: hidden;
+	border-radius: 10px;
+	border: 2px solid $main-color;
+	&__button {
+		cursor: pointer;
+		transition: 0.4s;
+		background-color: $wrapper-color;
+		color: $main-color;
+		border: none;
+		padding: 8px 20px;
+		font-weight: 800;
+		font-size: 15px;
+		&.active {
+			background-color: $main-color;
+			color: $wrapper-color;
+		}
+	}
+}
+.open-button {
+	display: none;
+}
+@media screen and (max-width: 1880px) {
+	.filters-list {
+		top: -120px;
+		left: 20px;
+	}
+}
+@media screen and (max-width: 900px) {
+	.filters-list {
+		box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+		transition: transform 0.3s ease-in-out;
+		top: 0px;
+		left: 0;
+		right: 0;
+		margin: 0 auto;
+		width: 250px;
+		padding: 20px;
+		border: none;
+		background-color: $wrapper-color;
+		z-index: 105;
+		&__button {
+			width: 100%;
+			font-size: 13px;
+			padding: 15px;
+			border-radius: 10px;
+			margin-bottom: 10px;
+			border: 2px solid $main-color;
+			&:last-child {
+				margin-bottom: 0px;
+			}
+		}
+		&.collapsed {
+			transform: translate(0, -700px);
+		}
+	}
+	.open-button {
+		transition: .3s;
+		position: absolute;
+		display: block;
+		padding: 10px;
+		border-radius: 10px;
+		top: 0px;
+		background-color: $wrapper-color;
+		font-weight: 700;
+		left: 20px;
+		color: $main-color;
+		border: 2px solid $main-color;
+		&.active {
+			background-color: $main-color;
+			color: $wrapper-color;
+		}
+	}
+}

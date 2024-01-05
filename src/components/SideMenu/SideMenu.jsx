@@ -1,5 +1,7 @@
 import { Component } from "react";
 
+import Undercover from "../Undercover/Undercover";
+
 import "./SideMenu.scss";
 
 export default class SideMenu extends Component {
@@ -14,12 +16,12 @@ export default class SideMenu extends Component {
 		const { collapsed } = this.state;
 		return (
 			<>
-				<div
-					className={`undercover ${collapsed ? "" : "active"}`}
-					onClick={() => {
+				<Undercover
+					collapsed={collapsed}
+					setCollapsed={() => {
 						this.setState({ collapsed: true });
 					}}
-				></div>
+				/>
 				<button
 					className="open-side-menu"
 					onClick={() => {

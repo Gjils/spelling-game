@@ -2,6 +2,7 @@ import { Component } from "react";
 
 import Word from "../Word/Word";
 import Loading from "../Loading/Loading";
+import FiltersList from "../FiltersList/FiltersList";
 
 import "./MainWindow.scss";
 
@@ -42,7 +43,7 @@ export default class MainWindow extends Component {
 		return array;
 	};
 
-	chageFiltersActivity = (changedIndex) => {
+	changeFiltersActivity = (changedIndex) => {
 		this.setState(({ filters }) => {
 			let newFilters = filters.data.map((item, index) =>
 				index === changedIndex ? { ...item, active: !item.active } : item,
@@ -157,7 +158,6 @@ export default class MainWindow extends Component {
 						<div className="main-window__error-message">
 							Слов по таким фильтрам нет
 						</div>
-						<div className="placeholder"></div>
 					</>
 				);
 			} else {
@@ -177,41 +177,22 @@ export default class MainWindow extends Component {
 					<div className="main-window__error-message">
 						Извините, произошла ошибка
 					</div>
-					<div className="placeholder"></div>
 				</>
 			);
 		} else {
 			wordContainer = (
 				<>
 					<Loading />
-					<div className="placeholder"></div>
 				</>
 			);
 		}
 
-		let filtersContainer = <></>;
-		if (filters.loaded && !filters.error) {
-			filtersContainer = (
-				<div className="main-window__filters-list">
-					{filters.data.map(({ name, active }, index) => (
-						<button
-							key={index}
-							className={`main-window__filters-list__button ${
-								active ? "active" : ""
-							}`}
-							onClick={() => {
-								this.chageFiltersActivity(index);
-							}}
-						>
-							{name}
-						</button>
-					))}
-				</div>
-			);
-		}
 		return (
 			<div className="main-window">
-				{filtersContainer}
+				<FiltersList
+					filters={filters}
+					changeFiltersActivity={this.changeFiltersActivity}
+				></FiltersList>
 				<div className="main-window__task-info">
 					<div className="main-window__task-info__number">
 						Задание {taskNumber}

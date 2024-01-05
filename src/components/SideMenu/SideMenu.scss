@@ -73,19 +73,8 @@
 }
 
 @media screen and (max-width: 1880px) {
-	.undercover {
-		display: none;
-		&.active {
-			display: block;
-			position: absolute;
-			width: 100vw;
-			height: 100vh;
-			background-color: black;
-			opacity: 0.4;
-			z-index: 99;
-		}
-	}
 	.open-side-menu {
+		cursor: pointer;
 		border: none;
 		background-color: transparent;
 		display: block;
@@ -138,7 +127,7 @@
 	}
 }
 
-@media screen and (max-width: 1180px) {
+@media screen and (max-width: 900px) {
 	.open-side-menu {
 		top: 35px;
 		left: 35px;
