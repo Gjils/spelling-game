@@ -32,6 +32,8 @@
 
 @media screen and (max-width: 1880px) {
 	.word {
+		position: relative;
+		bottom: 75px;
 		font-size: min(8vw, 80px);
 		&__letter {
 			padding: 0.5vw;
