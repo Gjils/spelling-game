@@ -10,6 +10,9 @@ export default class SideMenu extends Component {
 		this.state = {
 			collapsed: false,
 		};
+		if (localStorage.getItem("activeTask") !== null) {
+			this.state.collapsed = true;
+		}
 	}
 	render() {
 		const { tasksList, activeTask, switchActiveTask } = this.props;
@@ -28,7 +31,7 @@ export default class SideMenu extends Component {
 						this.setState({ collapsed: false });
 					}}
 				>
-					<img src="bars.svg" alt="bars" />
+					<i className="fa-solid fa-bars"></i>
 				</button>
 				<div className={`side-menu ${collapsed ? "collapsed" : ""}`}>
 					<div className="side-menu__header">Список заданий</div>

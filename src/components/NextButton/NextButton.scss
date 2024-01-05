@@ -1,19 +1,19 @@
 @import "../../variables.scss";
 
 .next-button {
-  cursor: pointer;
-  border-radius: 10px;
-  border: none;
-  padding: 20px 30px;
-  font-size: 20px;
-  font-weight: 700;
-  color: $wrapper-color;
-  background-color: #e63244;
+	cursor: pointer;
+	border-radius: 10px;
+	border: none;
+	padding: 20px 30px;
+	font-size: 20px;
+	font-weight: 700;
+	color: var(--wrapper-color);
+	background-color: var(--incorrect-color);
 }
 
 @media screen and (max-width: 900px) {
-  .next-button {
-    font-size: 15px;
-    padding: 15px 20px;
-  }
+	.next-button {
+		font-size: 15px;
+		padding: 15px 20px;
+	}
 }

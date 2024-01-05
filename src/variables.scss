@@ -1,5 +1,41 @@
-$wrapper-color: #f8f8f8;
-$back-color:  #CCCCFF;
-$main-color: #252525;
-$sub-color: #515151;
-$streak-color: #ff6161;
+.light {
+	--back-color: #ccccff;
+	--wrapper-color: #f8f8f8;
+	--main-color: #252525;
+	--sub-color: #515151;
+	--streak-color: #ff6161;
+	--correct-color: #a8e4a0;
+	--incorrect-color: #e63244;
+	&.pink {
+		--back-color: #ccccff;
+	}
+	&.green {
+		--back-color: #a8e4a0;
+	}
+	&.beige {
+		--back-color: #ffefd5;
+	}
+}
+.dark {
+	--back-color: #46394b;
+	--wrapper-color: #252525;
+	--main-color: #c6c3b5;
+	--sub-color: #a5a5a5;
+	--streak-color: #ff6161;
+	--correct-color: #006633;
+	--incorrect-color: #900020;
+	&.pink {
+		--back-color: #46394b;
+	}
+	&.green {
+		--back-color: #123524;
+	}
+	&.beige {
+		--back-color: #737368;
+	}
+}
+
+@mixin block-shadow {
+	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+	border: 3px solid var(--main-color);
+}

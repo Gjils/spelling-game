@@ -1,0 +1,90 @@
+@import "../../variables.scss";
+
+.open-settings {
+  transition: background-color .3s;
+	cursor: pointer;
+	position: absolute;
+	bottom: 40px;
+	right: 40px;
+	padding: 10px;
+	border-radius: 100%;
+	color: var(--main-color);
+	background-color: var(--wrapper-color);
+	@include block-shadow;
+	font-size: 30px;
+  &:hover {
+    background-color: var(--main-color);
+    color: var(--wrapper-color);
+  }
+}
+.settings {
+	transition: transform 0.3s ease-in-out;
+	text-align: right;
+	position: absolute;
+	padding: 20px;
+	right: 110px;
+	bottom: 40px;
+	width: 250px;
+	@include block-shadow;
+	border-radius: 10px;
+	background-color: var(--wrapper-color);
+	&__close {
+		cursor: pointer;
+		color: var(--main-color);
+		position: absolute;
+		top: 10px;
+		left: 10px;
+		font-size: 25px;
+	}
+	&__appearance {
+		margin-bottom: 40px;
+		&__label {
+			margin-bottom: 15px;
+			font-size: 15px;
+			color: var(--main-color);
+			font-weight: 700;
+		}
+		&__item {
+			cursor: pointer;
+			background-color: var(--wrapper-color);
+			border: 2px solid var(--main-color);
+			color: var(--main-color);
+			margin-left: 20px;
+			height: 55px;
+			width: 55px;
+			font-size: 30px;
+			border-radius: 100%;
+			&.change-color {
+				background-color: var(--back-color);
+			}
+		}
+	}
+	&__clear-data {
+		cursor: pointer;
+		padding: 10px 20px;
+		background-color: transparent;
+		color: var(--incorrect-color);
+		font-weight: 700;
+		border: 2px solid var(--incorrect-color);
+		border-radius: 10px;
+		transition: background-color 0.4s;
+		&:hover {
+			background-color: var(--incorrect-color);
+			color: var(--wrapper-color);
+		}
+	}
+	&.collapsed {
+		transform: translate(500px, 0);
+	}
+}
+
+@media screen and (max-width: 900px) {
+  .open-settings {
+    right: 25px;
+    bottom: 25px
+  }
+  .settings {
+    right: 95px;
+    bottom: 25px
+  }
+}
