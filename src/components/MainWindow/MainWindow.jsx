@@ -3,6 +3,7 @@ import { Component } from "react";
 import Word from "../Word/Word";
 import Loading from "../Loading/Loading";
 import FiltersList from "../FiltersList/FiltersList";
+import Level from "../Level/Level";
 
 import "./MainWindow.scss";
 
@@ -18,7 +19,7 @@ export default class MainWindow extends Component {
 			},
 			answerStatus: {
 				answered: false,
-				choosen: "",
+				chosen: "",
 				handled: false,
 			},
 		};
@@ -64,7 +65,6 @@ export default class MainWindow extends Component {
 	};
 
 	showNextWord = (isCorrect) => {
-		this.props.updateStats(isCorrect);
 		this.setState((state) => ({
 			answerStatus: { ...state.answerStatus, handled: true },
 		}));
@@ -84,17 +84,24 @@ export default class MainWindow extends Component {
 						data: newWords,
 					},
 					answersCount: answersCount + 1,
-					answerStatus: { answered: false, choosen: "", handled: false },
+					answerStatus: {
+						answered: false,
+						chosen: "",
+						handled: false,
+						correct: null,
+					},
 				};
 			});
-		}, 300);
+		}, 400);
 	};
 
-	setAnswer = (item) => {
+	setAnswer = (item, isCorrect) => {
+		this.props.updateStats(isCorrect);
 		this.setState({
 			answerStatus: {
 				answered: true,
-				choosen: item,
+				chosen: item,
+				correct: isCorrect,
 			},
 		});
 	};
@@ -140,7 +147,7 @@ export default class MainWindow extends Component {
 
 	render() {
 		const { name: taskName, number: taskNumber } = this.props.activeTask;
-		const { answersCount } = this.props;
+		const { answersCount, stats } = this.props;
 		const { words, filters, answerStatus } = this.state;
 		let wordContainer;
 		if (words.loaded && !words.error && filters.loaded && !filters.error) {
@@ -189,6 +196,7 @@ export default class MainWindow extends Component {
 
 		return (
 			<div className="main-window">
+				<Level stats={stats} answerStatus={answerStatus} />
 				<FiltersList
 					filters={filters}
 					changeFiltersActivity={this.changeFiltersActivity}

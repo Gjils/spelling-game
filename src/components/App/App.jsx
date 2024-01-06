@@ -14,11 +14,6 @@ export default class App extends Component {
 			tasks: {
 				loaded: false,
 			},
-			stats: {
-				correct: 0,
-				common: 0,
-				streak: 0,
-			},
 			colors: {
 				list: ["pink", "green", "beige"],
 			},
@@ -45,6 +40,18 @@ export default class App extends Component {
 		} else {
 			this.state.activeTask = 0;
 		}
+		if (JSON.parse(localStorage.getItem("stats")) !== null && this.state.activeTask in JSON.parse(localStorage.getItem("stats"))) {
+			this.state.stats = JSON.parse(localStorage.getItem("stats"))[
+				this.state.activeTask
+			];
+		} else {
+			this.state.stats = {
+				correct: 0,
+				common: 0,
+				streak: 0,
+				points: 0,
+			};
+		}
 	}
 
 	updateStats = (isCorrect) => {
@@ -57,14 +64,33 @@ export default class App extends Component {
 				newStats.streak = 0;
 			}
 			newStats.common += 1;
+			newStats.points += 10 * Math.ceil(newStats.streak / 10);
+			localStorage.setItem(
+				"stats",
+				JSON.stringify({
+					[this.state.activeTask]: newStats,
+				}),
+			);
 			return { stats: newStats };
 		});
 	};
 
 	switchActiveTask = (index) => {
 		localStorage.setItem("activeTask", index);
+		let newStats;
+		if (JSON.parse(localStorage.getItem("stats"))[index]) {
+			newStats = JSON.parse(localStorage.getItem("stats"))[index];
+		} else {
+			newStats = {
+				correct: 0,
+				common: 0,
+				streak: 0,
+				points: 0,
+			};
+		}
 		this.setState({
 			activeTask: index,
+			stats: newStats,
 		});
 	};
 
@@ -128,6 +154,7 @@ export default class App extends Component {
 						activeTask={tasks.data[activeTask]}
 						updateStats={this.updateStats}
 						answersCount={stats.common}
+						stats={stats}
 					/>
 					<Score stats={stats} />
 				</>

@@ -11,7 +11,7 @@ export default function LetterOptions({
 			key={index}
 			className="option"
 			onClick={() => {
-				setAnswer(item);
+				setAnswer(item, item === missedLetter);
 				if (item === missedLetter) {
 					showNextWord(true);
 				}

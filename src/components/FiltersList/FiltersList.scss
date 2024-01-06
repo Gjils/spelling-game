@@ -2,7 +2,7 @@
 
 .filters-list {
 	position: absolute;
-	top: 30px;
+	top: 50px;
 	left: 20px;
 	display: inline-block;
 	overflow: hidden;
@@ -32,11 +32,16 @@
 		left: 20px;
 	}
 }
+@media screen and (max-width: 1180px) {
+	.main-window__filters-list {
+		left: 80px;
+	}
+}
 @media screen and (max-width: 900px) {
 	.filters-list {
 		@include block-shadow;
 		transition: transform 0.3s ease-in-out;
-		top: 0px;
+		top: 0;
 		left: 0;
 		right: 0;
 		margin: 0 auto;

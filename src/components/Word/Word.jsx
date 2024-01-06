@@ -12,7 +12,7 @@ export default class Word extends Component {
 		const { word, missedLetter, missedIndex, options, context } =
 			this.props.word;
 		const { setAnswer, showNextWord } = this.props;
-		const { answered, choosen, handled } = this.props.answerStatus;
+		const { answered, chosen, handled, correct } = this.props.answerStatus;
 
 		let optionsContent = "";
 		if (!answered) {
@@ -25,7 +25,7 @@ export default class Word extends Component {
 				/>
 			);
 		}
-		if (answered && missedLetter !== choosen) {
+		if (answered && missedLetter !== chosen) {
 			optionsContent = (
 				<NextButton showNextWord={showNextWord} handled={handled} />
 			);
@@ -33,7 +33,11 @@ export default class Word extends Component {
 
 		return (
 			<>
-				<div className={`word ${handled ? "fadeout" : ""}`}>
+				<div
+					className={`word ${handled ? "fadeout" : ""} ${
+						correct === false && !handled ? "shaking" : ""
+					}`}
+				>
 					{word.split("").map((item, index) => (
 						<div
 							key={index}

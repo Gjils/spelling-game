@@ -1,3 +1,5 @@
+@import "./variables.scss";
+
 @keyframes fadeAnimation {
 	0% {
 		opacity: 0;
@@ -7,8 +9,57 @@
 	}
 }
 .fadeout {
-	animation: fadeAnimation 0.3s ease-in 0s 1 reverse  forwards;
+	animation: fadeAnimation 0.3s ease-in 0s 1 reverse forwards;
 }
 .fadein {
-	animation: fadeAnimation .5s ease-out 0s 1 normal forwards ;
+	animation: fadeAnimation 0.5s ease-out 0s 1 normal forwards;
+}
+
+@keyframes horizontal-shaking {
+	0% {
+		transform: translateX(0);
+	}
+	25% {
+		transform: translateX(10px);
+	}
+	50% {
+		transform: translateX(-10px);
+	}
+	75% {
+		transform: translateX(10px);
+	}
+	100% {
+		transform: translateX(0);
+	}
+}
+
+.shaking {
+	animation: horizontal-shaking 0.3s ease-out 0s 1 normal forwards;
+}
+
+@keyframes bar-shaking-animation {
+	0% {
+		background-color: var(--incorrect-color);
+		transform: translateX(0);
+	}
+	25% {
+		background-color: var(--incorrect-color);
+		transform: translateX(5px);
+	}
+	50% {
+		background-color: var(--incorrect-color);
+		transform: translateX(-5px);
+	}
+	75% {
+		background-color: var(--incorrect-color);
+		transform: translateX(5px);
+	}
+	100% {
+		background-color: var(--incorrect-color);
+		transform: translateX(0);
+	}
+}
+
+.bar-shaking {
+	animation: bar-shaking-animation 0.5s ease-out 0s 1 normal;
 }
