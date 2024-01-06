@@ -70,9 +70,17 @@ export default class MainWindow extends Component {
 		}));
 		setTimeout(() => {
 			this.setState(({ words, answersCount }) => {
-				const currentWord = words.data[0];
+				let visibleWords = [...words.data];
+				this.state.filters.data.forEach((filter) => {
+					if (!filter.active) {
+						visibleWords = visibleWords.filter(
+							(word) => !word.type.includes(filter.name),
+						);
+					}
+				});
+				const currentWord = visibleWords[0];
 				const newWords = [...words.data];
-				newWords.splice(0, 1);
+				newWords.splice(words.data.indexOf(currentWord), 1);
 				if (isCorrect || newWords.length < 15) {
 					newWords.push(currentWord);
 				} else {

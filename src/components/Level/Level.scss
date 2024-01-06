@@ -14,6 +14,9 @@
 			transition: width 0.3s ease-in-out;
 			height: 100%;
 			background-color: var(--correct-color);
+			&.bar-shaking {
+				background-color: var(--incorrect-color);
+			}
 		}
 	}
 	&__label {

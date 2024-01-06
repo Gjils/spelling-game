@@ -1,1011 +1,507 @@
 [
 	{
-		"word": "академия",
-		"missedLetter": "а",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "академический",
-		"missedLetter": "а",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "акварель",
+		"word": "изгарь",
 		"missedLetter": "а",
 		"missedIndex": 3,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся", "Исключение"]
 	},
 	{
-		"word": "акварельный",
-		"missedLetter": "а",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "аккомпанемент",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "аккомпанировать",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "аннотация",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "аплодировать",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "аплодисменты",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "аппетит",
-		"missedLetter": "п",
+		"word": "плывун",
+		"missedLetter": "ы",
 		"missedIndex": 2,
-		"options": ["п", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
+		"options": ["а", "о", "ы"],
+		"context": "грунт",
+		"type": ["Чередующиеся", "Исключение"]
 	},
 	{
-		"word": "аромат",
-		"missedLetter": "о",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "ароматный",
-		"missedLetter": "о",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "насекомые",
+		"word": "касательная",
 		"missedLetter": "а",
 		"missedIndex": 1,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "недосягаемый",
-		"missedLetter": "я",
-		"missedIndex": 5,
-		"options": ["и", "е", "я"],
+		"word": "погорелец",
+		"missedLetter": "о",
+		"missedIndex": 3,
+		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "новелла",
-		"missedLetter": "л",
-		"missedIndex": 5,
-		"options": ["л", "_"],
+		"word": "вымокнуть",
+		"missedLetter": "о",
+		"missedIndex": 3,
+		"options": ["а", "о"],
+		"context": "под дождм",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "вырос",
+		"missedLetter": "о",
+		"missedIndex": 3,
+		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "обаяние",
+		"word": "отраслевой",
+		"missedLetter": "а",
+		"missedIndex": 3,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся", "Исключение"]
+	},
+	{
+		"word": "уровень",
+		"missedLetter": "о",
+		"missedIndex": 2,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся", "Исключение"]
+	},
+	{
+		"word": "зажимать",
+		"missedLetter": "и",
+		"missedIndex": 3,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "опираться",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "озарение",
 		"missedLetter": "а",
 		"missedIndex": 2,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "обитать",
-		"missedLetter": "и",
-		"missedIndex": 2,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "обитатель",
-		"missedLetter": "и",
-		"missedIndex": 2,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "обоняние",
+		"word": "заросли",
 		"missedLetter": "о",
-		"missedIndex": 2,
+		"missedIndex": 3,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "одолеть",
+		"word": "прикоснуться",
 		"missedLetter": "о",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "аукцион",
-		"missedLetter": "и",
 		"missedIndex": 4,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "багаж",
-		"missedLetter": "а",
-		"missedIndex": 1,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "багажный",
-		"missedLetter": "а",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "багровый",
-		"missedLetter": "а",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "багроветь",
-		"missedLetter": "а",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "балкон",
-		"missedLetter": "а",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "балконный",
-		"missedLetter": "а",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "берёза",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "берёзовый",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "бирюзовый",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "богатый",
+		"word": "изложить",
 		"missedLetter": "о",
-		"missedIndex": 1,
+		"missedIndex": 3,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "богатство",
+		"word": "несгораемый",
 		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "богатырь",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "брошюра",
-		"missedLetter": "ю",
 		"missedIndex": 4,
-		"options": ["у", "ю"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "бюллетень",
-		"missedLetter": "ю",
-		"missedIndex": 1,
-		"options": ["и", "е", "ю"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "вакцина",
-		"missedLetter": "а",
-		"missedIndex": 1,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "вакцинация",
-		"missedLetter": "а",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "вакцинировать",
-		"missedLetter": "а",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "вариант",
-		"missedLetter": "и",
+		"word": "замереть",
+		"missedLetter": "е",
 		"missedIndex": 3,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "вариативный",
-		"missedLetter": "и",
+		"word": "озаряться",
+		"missedLetter": "а",
+		"missedIndex": 2,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "запереть",
+		"missedLetter": "е",
 		"missedIndex": 3,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "велосипед",
+		"word": "выстелить",
+		"missedLetter": "е",
+		"missedIndex": 4,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "выскочка",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "расстилается",
 		"missedLetter": "и",
 		"missedIndex": 5,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "велосипедный",
-		"missedLetter": "и",
-		"missedIndex": 5,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "вермишель",
-		"missedLetter": "и",
-		"missedIndex": 4,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "вестибюль",
-		"missedLetter": "и",
-		"missedIndex": 4,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "ветеран",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "ветеранский",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "винегрет",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "виртуальный",
-		"missedLetter": "и",
+		"word": "растение",
+		"missedLetter": "а",
 		"missedIndex": 1,
-		"options": ["и", "е"],
+		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "виртуоз",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "виртуозный",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "витраж",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "витражный",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "возражать",
+		"word": "прилагательное",
 		"missedLetter": "а",
 		"missedIndex": 4,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "возражение",
+		"word": "застилать",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "запирать",
+		"missedLetter": "и",
+		"missedIndex": 3,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "зарница",
 		"missedLetter": "а",
+		"missedIndex": 1,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "промокнуть",
+		"missedLetter": "о",
 		"missedIndex": 4,
 		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
+		"context": "салфеткой",
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "волейбол",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "волейбольный",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "воображать",
+		"word": "творительный",
 		"missedLetter": "о",
 		"missedIndex": 2,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "воображение",
+		"word": "пловец",
 		"missedLetter": "о",
 		"missedIndex": 2,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "воплощать",
+		"word": "прикоснуться",
 		"missedLetter": "о",
 		"missedIndex": 4,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "воплощение",
+		"word": "расположиться",
 		"missedLetter": "о",
-		"missedIndex": 4,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "впечатлить",
-		"missedLetter": "а",
-		"missedIndex": 4,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "впечатление",
-		"missedLetter": "а",
-		"missedIndex": 4,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "галлер ея",
-		"missedLetter": "_",
 		"missedIndex": 6,
-		"options": ["р", "_"],
+		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "гармония",
+		"word": "придираться",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "сжигать",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "прикосновение",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "макать",
 		"missedLetter": "а",
 		"missedIndex": 1,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "гармоничный",
+		"word": "блистательный",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "считать",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "запереть",
+		"missedLetter": "е",
+		"missedIndex": 3,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "водоросли",
+		"missedLetter": "о",
+		"missedIndex": 5,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "подгореть",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "приложить",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "отпирать",
+		"missedLetter": "и",
+		"missedIndex": 3,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "касание",
 		"missedLetter": "а",
 		"missedIndex": 1,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "гарнизон",
+		"word": "росток",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся", "Исключение"]
+	},
+	{
+		"word": "поклониться",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "натереть",
+		"missedLetter": "е",
+		"missedIndex": 3,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "растение",
 		"missedLetter": "а",
 		"missedIndex": 1,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "геолог",
-		"missedLetter": "о",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "геологический",
-		"missedLetter": "о",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "герой",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "героизм",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "героический",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "гипотеза",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "гипотетический",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "горячий",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "горизонт",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "горизонтальный",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "грамматика",
-		"missedLetter": "м",
-		"missedIndex": 4,
-		"options": ["м", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "грамматический",
-		"missedLetter": "м",
-		"missedIndex": 4,
-		"options": ["м", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "грамота",
-		"missedLetter": "о",
+		"word": "прилагательное",
+		"missedLetter": "а",
 		"missedIndex": 4,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "грамотный",
-		"missedLetter": "о",
-		"missedIndex": 4,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "гром_адный",
-		"missedLetter": "_",
-		"missedIndex": 4,
-		"options": ["м", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "громоздкий",
-		"missedLetter": "о",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "громоздить",
-		"missedLetter": "о",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "дебаты",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "декорация",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "декоративный",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "деликатный",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "демократ",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "демократичный",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "демонстрировать",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "демонстрация",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "диалог",
+		"word": "скакать",
 		"missedLetter": "а",
 		"missedIndex": 2,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "диалоговый",
+		"word": "уклониться",
+		"missedLetter": "о",
+		"missedIndex": 3,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "подложить",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "уравнение",
 		"missedLetter": "а",
 		"missedIndex": 2,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "диапазон",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "дирижёр",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "дирижировать",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "диспетчер",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "диспетчерский",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "дистанция",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "дистанционный",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "оптимист",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "оптимистичный",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "оранжерея",
+		"word": "протереть",
 		"missedLetter": "е",
-		"missedIndex": 5,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "орбита",
-		"missedLetter": "о",
-		"missedIndex": 0,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "орбитальный",
-		"missedLetter": "о",
-		"missedIndex": 0,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "организовать",
-		"missedLetter": "и",
-		"missedIndex": 5,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "организация",
-		"missedLetter": "и",
-		"missedIndex": 5,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "ориентировать",
-		"missedLetter": "и",
-		"missedIndex": 2,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "ориентироваться",
-		"missedLetter": "и",
-		"missedIndex": 2,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "ориентация",
-		"missedLetter": "и",
-		"missedIndex": 2,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "осторожный",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "осторожность",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "офицер",
-		"missedLetter": "и",
-		"missedIndex": 2,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "офицерский",
-		"missedLetter": "и",
-		"missedIndex": 2,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "ошеломить",
-		"missedLetter": "е",
-		"missedIndex": 2,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "палисадник",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "панорама",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "панорамный",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "панцирь",
-		"missedLetter": "и",
-		"missedIndex": 4,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "парашют",
-		"missedLetter": "ю",
-		"missedIndex": 5,
-		"options": ["у", "ю"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "патриот",
-		"missedLetter": "и",
 		"missedIndex": 4,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "патриотизм",
+		"word": "сложение",
+		"missedLetter": "о",
+		"missedIndex": 2,
+		"options": ["а", "о"],
+		"context": "чисел",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "выскочка",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "пловчиха",
+		"missedLetter": "о",
+		"missedIndex": 2,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "полагать",
+		"missedLetter": "а",
+		"missedIndex": 3,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "выращенный",
+		"missedLetter": "а",
+		"missedIndex": 3,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся"]
+	},
+	{
+		"word": "заклинать",
 		"missedLetter": "и",
 		"missedIndex": 4,
-		"options": ["и", "е"],
+		"options": ["и", "я"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "патриотический",
+		"word": "Ростов",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Чередующиеся", "Исключение"]
+	},
+	{
+		"word": "внимательный",
 		"missedLetter": "и",
-		"missedIndex": 4,
-		"options": ["и", "е"],
+		"missedIndex": 2,
+		"options": ["и", "я"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Чередующиеся"]
 	},
 	{
-		"word": "пейзаж",
+		"word": "регламент",
 		"missedLetter": "е",
 		"missedIndex": 1,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "пейзажный",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
+		"word": "авангард",
+		"missedLetter": "а",
+		"missedIndex": 2,
+		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "перил а",
-		"missedLetter": "_",
-		"missedIndex": 5,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключние"]
 	},
 	{
 		"word": "перила",
@@ -1013,855 +509,55 @@
 		"missedIndex": 1,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "период",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "периодический",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "пессимист",
-		"missedLetter": "с",
-		"missedIndex": 3,
-		"options": ["с", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "пессимистичный",
-		"missedLetter": "с",
-		"missedIndex": 3,
-		"options": ["с", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "пессимист",
+		"word": "аристократ",
 		"missedLetter": "и",
-		"missedIndex": 4,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "пессимистичный",
-		"missedLetter": "и",
-		"missedIndex": 4,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "подлинный",
-		"missedLetter": "н",
-		"missedIndex": 6,
-		"options": ["н", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "подражать",
-		"missedLetter": "а",
-		"missedIndex": 4,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "подражание",
-		"missedLetter": "а",
-		"missedIndex": 4,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "подражатель",
-		"missedLetter": "а",
-		"missedIndex": 4,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "позиция",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "поколение",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "полемика",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "полемичный",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "полировать",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "полированный",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "полировать",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "полированный",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "поражать",
-		"missedLetter": "а",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "поражение",
-		"missedLetter": "а",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "поразить",
-		"missedLetter": "а",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "поразительный",
-		"missedLetter": "а",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "посещать",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "посещение",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "посетитель",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "правило",
-		"missedLetter": "и",
-		"missedIndex": 4,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "правильный",
-		"missedLetter": "и",
-		"missedIndex": 4,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "предварительный",
-		"missedLetter": "е",
-		"missedIndex": 9,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "президент",
-		"missedLetter": "и",
-		"missedIndex": 4,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "президентский",
-		"missedLetter": "и",
-		"missedIndex": 4,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "рациональный",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "рационализировать",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "реалист",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "реалистичный",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "реализм",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "резидент",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "резиденция",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "реставрация",
-		"missedLetter": "а",
-		"missedIndex": 4,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "реставрационный",
-		"missedLetter": "а",
-		"missedIndex": 4,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "реферат",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "реферировать",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "реформа",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "реформатор",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "реформировать",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "рецензия",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "рецензент",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "рецензировать",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "романтичный",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "романтический",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "романтизм",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "дисциплина",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "дисциплинарный",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "дисциплинировать",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "жюри",
-		"missedLetter": "ю",
-		"missedIndex": 1,
-		"options": ["у", "ю"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "знакомить",
-		"missedLetter": "а",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "знакомиться",
-		"missedLetter": "а",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "знакомый",
-		"missedLetter": "а",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "знаменовать",
-		"missedLetter": "е",
-		"missedIndex": 4,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "игнорировать",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "идеал",
-		"missedLetter": "е",
 		"missedIndex": 2,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "идеализировать",
-		"missedLetter": "е",
+		"word": "министерство",
+		"missedLetter": "и",
+		"missedIndex": 3,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "дивизион",
+		"missedLetter": "и",
+		"missedIndex": 1,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "горизонт",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "стратегия",
+		"missedLetter": "а",
+		"missedIndex": 3,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "приоритет",
+		"missedLetter": "и",
 		"missedIndex": 2,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "индивид",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "индивидуальный",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "иней",
-		"missedLetter": "е",
-		"missedIndex": 2,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "инженер",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "инженерский",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "интеллект",
-		"missedLetter": "л",
-		"missedIndex": 5,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "интеллектуальный",
-		"missedLetter": "л",
-		"missedIndex": 5,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "интеллигент",
-		"missedLetter": "л",
-		"missedIndex": 5,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "интеллигентный",
-		"missedLetter": "л",
-		"missedIndex": 5,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "интерьер",
-		"missedLetter": "ь",
-		"missedIndex": 5,
-		"options": ["ь", "ъ", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "интерьерный",
-		"missedLetter": "ь",
-		"missedIndex": 5,
-		"options": ["ь", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "истина",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "истинный",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "кампания",
-		"missedLetter": "а",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "мероприятие",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "каникулы",
-		"missedLetter": "а",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "канонада",
-		"missedLetter": "а",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "канонада",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "канцелярия",
-		"missedLetter": "е",
-		"missedIndex": 4,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "канцелярский",
-		"missedLetter": "е",
-		"missedIndex": 4,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "капюшон",
-		"missedLetter": "о",
-		"missedIndex": 5,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "карикатура",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "карикатурный",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "карикатурист",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "коварный",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "коварство",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "колдун",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "колдовать",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "колдовской",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "коллектив",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "коллективный",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "коллектив",
-		"missedLetter": "л",
-		"missedIndex": 3,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "коллективный",
-		"missedLetter": "л",
-		"missedIndex": 3,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "коллекция",
-		"missedLetter": "л",
-		"missedIndex": 3,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "коллекционный",
-		"missedLetter": "л",
-		"missedIndex": 3,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "колоссальный",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "колоссальный",
-		"missedLetter": "с",
-		"missedIndex": 5,
-		"options": ["с", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "колыхать",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "колыхаться",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "комбинация",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "комбинировать",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "комедия",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "комедийный",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "компания",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "группа людей, фирма",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "компьютер",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "компьютерный",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
 		"word": "комфорт",
@@ -1869,1022 +565,630 @@
 		"missedIndex": 1,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "комфортный",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "конверт",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "конкурент",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "конкуренция",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "конференция",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "конфорка",
-		"missedLetter": "н",
+		"word": "спираль",
+		"missedLetter": "и",
 		"missedIndex": 2,
-		"options": ["м", "н"],
+		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "коричневый",
+		"word": "барашек",
+		"missedLetter": "а",
+		"missedIndex": 1,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "формат",
 		"missedLetter": "о",
 		"missedIndex": 1,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "корзина",
+		"word": "предварительный",
+		"missedLetter": "а",
+		"missedIndex": 5,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "придорожный",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "досконально",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "болото",
 		"missedLetter": "о",
 		"missedIndex": 1,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "король",
-		"missedLetter": "о",
-		"missedIndex": 1,
+		"word": "нестабильно",
+		"missedLetter": "а",
+		"missedIndex": 4,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "королевство",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "кромешный",
-		"missedLetter": "о",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "либерал",
+		"word": "шедевр",
 		"missedLetter": "е",
-		"missedIndex": 3,
+		"missedIndex": 1,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "либеральный",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "материал",
+		"word": "дивизия",
 		"missedLetter": "и",
-		"missedIndex": 5,
+		"missedIndex": 1,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "материальный",
-		"missedLetter": "и",
-		"missedIndex": 5,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "материализм",
-		"missedLetter": "и",
-		"missedIndex": 5,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "материализовать",
-		"missedLetter": "и",
-		"missedIndex": 5,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "мгновение",
+		"word": "солдат",
 		"missedLetter": "о",
+		"missedIndex": 1,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "нигилист",
+		"missedLetter": "и",
+		"missedIndex": 1,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "приоритет",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "финансист",
+		"missedLetter": "и",
+		"missedIndex": 1,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "упражнение",
+		"missedLetter": "а",
 		"missedIndex": 3,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "мгновенный",
-		"missedLetter": "о",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
 		"word": "меридиан",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "менталитет",
-		"missedLetter": "и",
-		"missedIndex": 6,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "ментальный",
 		"missedLetter": "е",
 		"missedIndex": 1,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "метафора",
+		"word": "апельсин",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "ошеломлнный",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "прикроватный",
 		"missedLetter": "о",
 		"missedIndex": 5,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "метафорический",
-		"missedLetter": "о",
-		"missedIndex": 5,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "механизм",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "механический",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "минерал",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "минеральный",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "мотив",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "мотивировать",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "мотивация",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "мятеж",
-		"missedLetter": "я",
-		"missedIndex": 1,
-		"options": ["е", "я"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "мятежный",
-		"missedLetter": "я",
-		"missedIndex": 1,
-		"options": ["е", "я"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "сатира",
-		"missedLetter": "а",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "сатирический",
-		"missedLetter": "а",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "сатирический",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "сезон",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "сезонный",
-		"missedLetter": "е",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "симптом",
+		"word": "кивать",
 		"missedLetter": "и",
 		"missedIndex": 1,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "симфония",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "симфонический",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "сирень",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "сиреневый",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "система",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "систематичный",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "систематизировать",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "смятение",
-		"missedLetter": "я",
-		"missedIndex": 2,
-		"options": ["е", "я"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "сокровенный",
-		"missedLetter": "о",
-		"missedIndex": 1,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "состязаться",
-		"missedLetter": "я",
-		"missedIndex": 4,
-		"options": ["и", "е", "я"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "состязание",
-		"missedLetter": "я",
-		"missedIndex": 4,
-		"options": ["и", "е", "я"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "социальный",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "спартакиада",
-		"missedLetter": "а",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "стадион",
-		"missedLetter": "и",
-		"missedIndex": 4,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "стипендия",
+		"word": "шпионаж",
 		"missedLetter": "и",
 		"missedIndex": 2,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "страховать",
-		"missedLetter": "о",
-		"missedIndex": 5,
-		"options": ["а", "о"],
+		"word": "вестибюль",
+		"missedLetter": "е",
+		"missedIndex": 1,
+		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "страховка",
+		"word": "распропагандировать",
 		"missedLetter": "а",
-		"missedIndex": 3,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "стремиться",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "стремление",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "суверенитет",
-		"missedLetter": "и",
 		"missedIndex": 7,
-		"options": ["и", "е"],
+		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "суверенитет",
+		"word": "аплодировать",
+		"missedLetter": "о",
+		"missedIndex": 3,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "аристократ",
+		"missedLetter": "о",
+		"missedIndex": 5,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "кондуктор",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "ладонь",
+		"missedLetter": "а",
+		"missedIndex": 1,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "реакция",
+		"missedLetter": "е",
+		"missedIndex": 1,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "ветеран",
+		"missedLetter": "е",
+		"missedIndex": 1,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "профориентация",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "лепесток",
+		"missedLetter": "е",
+		"missedIndex": 1,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "дипломат",
+		"missedLetter": "и",
+		"missedIndex": 1,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "президент",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "иждивенец",
+		"missedLetter": "и",
+		"missedIndex": 3,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Непроверяемые", "Исключение"]
+	},
+	{
+		"word": "стремянный",
+		"missedLetter": "е",
+		"missedIndex": 3,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "цветок",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "запороть",
+		"missedLetter": "о",
+		"missedIndex": 3,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "выпасть",
+		"missedLetter": "а",
+		"missedIndex": 3,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "обнажать",
+		"missedLetter": "а",
+		"missedIndex": 3,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "примирение",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"options": ["и", "е"],
+		"context": "сторон",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "отварить",
+		"missedLetter": "а",
+		"missedIndex": 3,
+		"options": ["а", "о"],
+		"context": "овощи",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "горевать",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "косички",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "стилистический",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "просмотреть",
+		"missedLetter": "о",
+		"missedIndex": 5,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "морячок",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "деревья",
+		"missedLetter": "е",
+		"missedIndex": 1,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "умиротворение",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "водянистый",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "линейка",
+		"missedLetter": "и",
+		"missedIndex": 1,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "получасовой",
+		"missedLetter": "а",
+		"missedIndex": 5,
+		"options": ["а", "е"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "воздушный",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "громыхало",
+		"missedLetter": "о",
+		"missedIndex": 2,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "травяной",
+		"missedLetter": "а",
+		"missedIndex": 2,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "засорять",
+		"missedLetter": "о",
+		"missedIndex": 3,
+		"options": ["а", "о"],
+		"context": "природу",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "перекликаться",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "занавес",
 		"missedLetter": "е",
 		"missedIndex": 5,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Проверяемые"]
 	},
 	{
-		"word": "суверенитет",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "суверенный",
-		"missedLetter": "е",
-		"missedIndex": 3,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "тал ант",
-		"missedLetter": "_",
-		"missedIndex": 3,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "тал антливый",
-		"missedLetter": "_",
-		"missedIndex": 3,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "территория",
-		"missedLetter": "р",
-		"missedIndex": 3,
-		"options": ["р", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "территориальный",
-		"missedLetter": "р",
-		"missedIndex": 3,
-		"options": ["р", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "торжество",
+		"word": "заплести",
 		"missedLetter": "е",
 		"missedIndex": 4,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Проверяемые"]
 	},
 	{
-		"word": "торжественный",
-		"missedLetter": "о",
-		"missedIndex": 1,
+		"word": "доставаться",
+		"missedLetter": "а",
+		"missedIndex": 4,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Проверяемые"]
 	},
 	{
-		"word": "торжество",
+		"word": "задрожала",
 		"missedLetter": "о",
-		"missedIndex": 1,
+		"missedIndex": 4,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Проверяемые"]
 	},
 	{
-		"word": "традиция",
+		"word": "многоголосье",
+		"missedLetter": "о",
+		"missedIndex": 6,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "подсветить",
+		"missedLetter": "е",
+		"missedIndex": 5,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "стекло",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "передвижение",
 		"missedLetter": "и",
 		"missedIndex": 6,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Проверяемые"]
 	},
 	{
-		"word": "традиционный",
+		"word": "гостевой",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"options": ["а", "о"],
+		"context": "дом",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "голова",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "обещавший",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "подмигнуть",
 		"missedLetter": "и",
+		"missedIndex": 4,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "подворотня",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"options": ["а", "о"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "листок",
+		"missedLetter": "и",
+		"missedIndex": 1,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "плечо",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"options": ["и", "е"],
+		"context": "",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "запастись",
+		"missedLetter": "а",
+		"missedIndex": 3,
+		"options": ["а", "о"],
+		"context": "провизией",
+		"type": ["Проверяемые"]
+	},
+	{
+		"word": "непозволительно",
+		"missedLetter": "о",
 		"missedIndex": 6,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "трафарет",
-		"missedLetter": "а",
-		"missedIndex": 2,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Проверяемые"]
 	},
 	{
-		"word": "трафаретный",
-		"missedLetter": "а",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "тревога",
-		"missedLetter": "е",
-		"missedIndex": 2,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "тревожный",
-		"missedLetter": "е",
-		"missedIndex": 2,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "тревожить",
-		"missedLetter": "е",
-		"missedIndex": 2,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "троллейбус",
-		"missedLetter": "л",
-		"missedIndex": 4,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "троллейбусный",
-		"missedLetter": "л",
-		"missedIndex": 4,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "троллейбус",
+		"word": "доброта",
 		"missedLetter": "о",
-		"missedIndex": 2,
+		"missedIndex": 1,
 		"options": ["а", "о"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Проверяемые"]
 	},
 	{
-		"word": "троллейбусный",
-		"missedLetter": "о",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "тростник",
-		"missedLetter": "о",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "тростниковый",
-		"missedLetter": "о",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "трясина",
+		"word": "загляденье",
 		"missedLetter": "я",
-		"missedIndex": 2,
+		"missedIndex": 4,
 		"options": ["е", "я"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Проверяемые"]
 	},
 	{
-		"word": "университет",
-		"missedLetter": "и",
-		"missedIndex": 2,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "университетский",
-		"missedLetter": "и",
-		"missedIndex": 2,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "университет",
-		"missedLetter": "и",
-		"missedIndex": 7,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "университетский",
-		"missedLetter": "и",
-		"missedIndex": 7,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "фигура",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "фигурировать",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "фиолетовый",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "хаос",
-		"missedLetter": "о",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "хаотичный",
-		"missedLetter": "о",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "характер",
-		"missedLetter": "е",
-		"missedIndex": 6,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "характерный",
-		"missedLetter": "е",
-		"missedIndex": 6,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "характеризовать",
-		"missedLetter": "е",
-		"missedIndex": 6,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "цивил изация",
-		"missedLetter": "_",
-		"missedIndex": 5,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "цивил изационный",
-		"missedLetter": "_",
-		"missedIndex": 5,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "цивил изованный",
-		"missedLetter": "_",
-		"missedIndex": 5,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "цивилизация",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "цивилизационный",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "цивилизованный",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "циклон",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "цилиндр",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "цилиндрический",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "цил индр",
-		"missedLetter": "_",
-		"missedIndex": 3,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "цил индрический",
-		"missedLetter": "_",
-		"missedIndex": 3,
-		"options": ["л", "_"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "цитата",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "цитировать",
-		"missedLetter": "и",
-		"missedIndex": 1,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "цыган",
-		"missedLetter": "ы",
-		"missedIndex": 1,
-		"options": ["и", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "цыганский",
-		"missedLetter": "ы",
-		"missedIndex": 1,
-		"options": ["и", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "цыплёнок",
-		"missedLetter": "ы",
-		"missedIndex": 1,
-		"options": ["и", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "цыпочки",
-		"missedLetter": "ы",
-		"missedIndex": 1,
-		"options": ["и", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "чемпион",
-		"missedLetter": "и",
-		"missedIndex": 4,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "чемпионский",
-		"missedLetter": "и",
-		"missedIndex": 4,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "эволюция",
-		"missedLetter": "о",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "эволюционировать",
-		"missedLetter": "о",
-		"missedIndex": 2,
-		"options": ["а", "о"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "эксперимент",
-		"missedLetter": "и",
-		"missedIndex": 6,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "экспериментальный",
-		"missedLetter": "и",
-		"missedIndex": 6,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "экспериментировать",
-		"missedLetter": "и",
-		"missedIndex": 6,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "эксперимент",
+		"word": "примерять",
 		"missedLetter": "е",
 		"missedIndex": 4,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Проверяемые"]
 	},
 	{
-		"word": "экспериментальный",
+		"word": "насмехаться",
 		"missedLetter": "е",
 		"missedIndex": 4,
 		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Проверяемые"]
 	},
 	{
-		"word": "экспериментировать",
-		"missedLetter": "е",
-		"missedIndex": 4,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "электроника",
-		"missedLetter": "е",
-		"missedIndex": 2,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "электрический",
-		"missedLetter": "е",
-		"missedIndex": 2,
-		"options": ["и", "е"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "энциклопедия",
+		"word": "скрипучая",
 		"missedLetter": "и",
 		"missedIndex": 3,
-		"options": ["и", "е", "ы"],
+		"options": ["и", "е"],
 		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "энциклопедист",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
-	},
-	{
-		"word": "энциклопедический",
-		"missedLetter": "и",
-		"missedIndex": 3,
-		"options": ["и", "е", "ы"],
-		"context": "",
-		"type": ["Непроверяемые"]
+		"type": ["Проверяемые"]
 	}
 ]
