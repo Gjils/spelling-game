@@ -40,10 +40,22 @@ export default class App extends Component {
 		} else {
 			this.state.activeTask = 0;
 		}
-		if (JSON.parse(localStorage.getItem("stats")) !== null && this.state.activeTask in JSON.parse(localStorage.getItem("stats"))) {
-			this.state.stats = JSON.parse(localStorage.getItem("stats"))[
-				this.state.activeTask
-			];
+		if (
+			JSON.parse(
+				localStorage.getItem(
+					localStorage.getItem("activeTask") !== null
+						? localStorage.getItem("activeTask")
+						: "0",
+				),
+			) !== null
+		) {
+			this.state.stats = JSON.parse(
+				localStorage.getItem(
+					localStorage.getItem("activeTask") !== null
+						? localStorage.getItem("activeTask")
+						: "0",
+				),
+			);
 		} else {
 			this.state.stats = {
 				correct: 0,
@@ -65,12 +77,7 @@ export default class App extends Component {
 			}
 			newStats.common += 1;
 			newStats.points += 10 * Math.ceil(newStats.streak / 10);
-			localStorage.setItem(
-				"stats",
-				JSON.stringify({
-					[this.state.activeTask]: newStats,
-				}),
-			);
+			localStorage.setItem(this.state.activeTask, JSON.stringify(newStats));
 			return { stats: newStats };
 		});
 	};
@@ -78,8 +85,8 @@ export default class App extends Component {
 	switchActiveTask = (index) => {
 		localStorage.setItem("activeTask", index);
 		let newStats;
-		if (JSON.parse(localStorage.getItem("stats"))[index]) {
-			newStats = JSON.parse(localStorage.getItem("stats"))[index];
+		if (JSON.parse(localStorage.getItem(index))) {
+			newStats = JSON.parse(localStorage.getItem(index));
 		} else {
 			newStats = {
 				correct: 0,

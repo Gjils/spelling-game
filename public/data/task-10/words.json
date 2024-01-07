@@ -1,0 +1,1194 @@
+[
+	{
+		"word": "согласие",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "позавчера",
+		"missedLetter": "а",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "последствия",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "безынициативный",
+		"missedLetter": "ы",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "взимать",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "предынфарктный",
+		"missedLetter": "ы",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "добела",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "непробудный",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "изобрести",
+		"missedLetter": "о",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "разыграть",
+		"missedLetter": "ы",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "фининспектор",
+		"missedLetter": "и",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "дезинформация",
+		"missedLetter": "и",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "пополнять",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "перенаправить",
+		"missedLetter": "а",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "предоставить",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "обогреться",
+		"missedLetter": "о",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "просматривать",
+		"missedLetter": "о",
+		"missedIndex": 2,
+		"context": "статью",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "проиграть",
+		"missedLetter": "и",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "сызмала",
+		"missedLetter": "ы",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "дезинфекция",
+		"missedLetter": "и",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "недоварить",
+		"missedLetter": "о",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "покраска",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "подкова",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "поискать",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "сыграть",
+		"missedLetter": "ы",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "розыск",
+		"missedLetter": "ы",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "дотемна",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "непростёганное",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"context": "одеяло",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "подстрекатель",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "разыграть",
+		"missedLetter": "ы",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "предыстория",
+		"missedLetter": "ы",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "безымянный",
+		"missedLetter": "ы",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "неохваченный",
+		"missedLetter": "о",
+		"missedIndex": 2,
+		"context": "переписью",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "разместить",
+		"missedLetter": "а",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "подметать",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "подыскать",
+		"missedLetter": "ы",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "сверхинтересный",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "взимать",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "безыскусный",
+		"missedLetter": "ы",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "заинтересованный",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "воистину",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "позавчера",
+		"missedLetter": "а",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "необозримый",
+		"missedLetter": "о",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "отвергнуть",
+		"missedLetter": "о",
+		"missedIndex": 0,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "неоглядный",
+		"missedLetter": "о",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "заголовок",
+		"missedLetter": "а",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "загляденье",
+		"missedLetter": "а",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "межигровой",
+		"missedLetter": "и",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "поиграть",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "сверхизысканный",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "предынвестиционный",
+		"missedLetter": "ы",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "подытожить",
+		"missedLetter": "ы",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "заискрить",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "непробудный",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "воскликнуть",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "воткнуть",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "сверхинициативный",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "взимать",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "трёхимпульсный",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["и", "ы"]
+	},
+	{
+		"word": "докрасна",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "неотснятый",
+		"missedLetter": "о",
+		"missedIndex": 2,
+		"context": "кадр",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "подрамник",
+		"missedLetter": "о",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Гласные"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "пьеса",
+		"missedLetter": "ь",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["ь", "ъ", "_"]
+	},
+	{
+		"word": "Вьетнам",
+		"missedLetter": "ь",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["ь", "ъ", "_"]
+	},
+	{
+		"word": "пьянящий",
+		"missedLetter": "ь",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["ь", "ъ", "_"]
+	},
+	{
+		"word": "разъёмный",
+		"missedLetter": "ъ",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["ь", "ъ", "_"]
+	},
+	{
+		"word": "подъём",
+		"missedLetter": "ъ",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["ь", "ъ", "_"]
+	},
+	{
+		"word": "объект",
+		"missedLetter": "ъ",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["ь", "ъ", "_"]
+	},
+	{
+		"word": "безъядерный",
+		"missedLetter": "ъ",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["ь", "ъ", "_"]
+	},
+	{
+		"word": "пьедестал",
+		"missedLetter": "ь",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["ь", "ъ", "_"]
+	},
+	{
+		"word": "изъян",
+		"missedLetter": "ъ",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["ь", "ъ", "_"]
+	},
+	{
+		"word": "субъективный",
+		"missedLetter": "ъ",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["ь", "ъ", "_"]
+	},
+	{
+		"word": "опьянение",
+		"missedLetter": "ь",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["ь", "ъ", "_"]
+	},
+	{
+		"word": "вьюн",
+		"missedLetter": "ь",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["ь", "ъ", "_"]
+	},
+	{
+		"word": "межъязыковой",
+		"missedLetter": "ъ",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["ь", "ъ", "_"]
+	},
+	{
+		"word": "пьеса",
+		"missedLetter": "ь",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["ь", "ъ", "_"]
+	},
+	{
+		"word": "двух_этажный",
+		"missedLetter": "_",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["ь", "ъ", "_"]
+	},
+	{
+		"word": "чересчур",
+		"missedLetter": "с",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "безболезненный",
+		"missedLetter": "з",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "здесь",
+		"missedLetter": "з",
+		"missedIndex": 0,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "испепелить",
+		"missedLetter": "с",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "несгораемый",
+		"missedLetter": "с",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "рассвет",
+		"missedLetter": "с",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "размешать",
+		"missedLetter": "з",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "бесчисленный",
+		"missedLetter": "с",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "исчезнуть",
+		"missedLetter": "с",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "надбровный",
+		"missedLetter": "д",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["д", "т"]
+	},
+	{
+		"word": "подрыть",
+		"missedLetter": "д",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["д", "т"]
+	},
+	{
+		"word": "подметить",
+		"missedLetter": "д",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["д", "т"]
+	},
+	{
+		"word": "несбыточный",
+		"missedLetter": "с",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "несделанный",
+		"missedLetter": "с",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "сдаюсь",
+		"missedLetter": "с",
+		"missedIndex": 0,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "изгнать",
+		"missedLetter": "з",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "несгораемый",
+		"missedLetter": "с",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "распогодится",
+		"missedLetter": "с",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "подбросить",
+		"missedLetter": "д",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["д", "т"]
+	},
+	{
+		"word": "отговорка",
+		"missedLetter": "т",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["д", "т"]
+	},
+	{
+		"word": "надземный",
+		"missedLetter": "д",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["д", "т"]
+	},
+	{
+		"word": "несжатый",
+		"missedLetter": "с",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "бездорожье",
+		"missedLetter": "з",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "беззаботно",
+		"missedLetter": "з",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "росчерк",
+		"missedLetter": "с",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "несгибаемый",
+		"missedLetter": "с",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "пересдать",
+		"missedLetter": "с",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "возгорание",
+		"missedLetter": "з",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "вздрагивать",
+		"missedLetter": "з",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "развитие",
+		"missedLetter": "з",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "изгнать",
+		"missedLetter": "з",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "несгораемый",
+		"missedLetter": "с",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "изменить",
+		"missedLetter": "з",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "надтреснутый",
+		"missedLetter": "д",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["д", "т"]
+	},
+	{
+		"word": "подкрадываться",
+		"missedLetter": "д",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["д", "т"]
+	},
+	{
+		"word": "подрасти",
+		"missedLetter": "д",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["д", "т"]
+	},
+	{
+		"word": "исковеркать",
+		"missedLetter": "с",
+		"missedIndex": 1,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "безжизненный",
+		"missedLetter": "з",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "чересчур",
+		"missedLetter": "с",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Согласные"],
+		"options": ["з", "с"]
+	},
+	{
+		"word": "преобразование",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "непреложный",
+		"missedLetter": "е",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "предыстория",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "превращение",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "приглушить",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "примерка",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "престарелый",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "приоткрыть",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "привокзальный",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "превосходный",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "приноровиться",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "преклонить",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "колени",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "причудливый",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "преграда",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "привидение",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "препинание",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "приглушить",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "пристегнуть",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "приобретатель",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "причудливый",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "приходящий",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "преинтересный",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "претендент",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "претворяется (в жизнь)",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "приобрел",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "преобразователь",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "приоритет",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "приглушить",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "представить",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "притворить",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "дверь",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "преобразовать",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "прислушиваться",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "приклеить",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Пре/при"],
+		"options": ["и", "е"]
+	}
+]
