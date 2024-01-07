@@ -208,10 +208,10 @@
 		"options": ["и", "е"]
 	},
 	{
-		"word": "шепчущий (на ухо)",
+		"word": "шепчущий",
 		"missedLetter": "у",
 		"missedIndex": 4,
-		"context": "",
+		"context": "на ухо",
 		"type": ["Причастия"],
 		"options": ["а", "у"]
 	},
@@ -360,10 +360,10 @@
 		"options": ["и", "е"]
 	},
 	{
-		"word": "спилится (верхушка дерева)",
+		"word": "спилится",
 		"missedLetter": "и",
 		"missedIndex": 4,
-		"context": "",
+		"context": "верхушка дерева",
 		"type": ["Глаголы"],
 		"options": ["и", "е"]
 	},
@@ -523,7 +523,7 @@
 		"word": "тревожат",
 		"missedLetter": "а",
 		"missedIndex": 6,
-		"context": "(меня / мысли)",
+		"context": "меня / мысли",
 		"type": ["Глаголы"],
 		"options": ["а", "у"]
 	},
@@ -704,10 +704,10 @@
 		"options": ["и", "е"]
 	},
 	{
-		"word": "приходится (он / братом)",
+		"word": "приходится",
 		"missedLetter": "и",
 		"missedIndex": 6,
-		"context": "",
+		"context": "он / братом",
 		"type": ["Глаголы"],
 		"options": ["и", "е"]
 	},
