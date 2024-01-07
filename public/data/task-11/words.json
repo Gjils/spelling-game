@@ -1,0 +1,802 @@
+[
+	{
+		"word": "удваивать",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "обиделся",
+		"missedLetter": "е",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "раскраивай",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "подмигивавший",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "исследовать",
+		"missedLetter": "о",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["а", "о", "ы"]
+	},
+	{
+		"word": "удостаивавший",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "малевать",
+		"missedLetter": "е",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "отчаяться",
+		"missedLetter": "я",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "я"]
+	},
+	{
+		"word": "расстегивавшийся",
+		"missedLetter": "и",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "завариваю",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "отклеившись",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "одаривать",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "успокаиваться",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "напрашивается",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "высмеивающий",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "склеивающий",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "выколачивают",
+		"missedLetter": "и",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "торговать",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "окольцевать",
+		"missedLetter": "е",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "ограничивать",
+		"missedLetter": "и",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "отказывайтесь",
+		"missedLetter": "ы",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["о", "ы"]
+	},
+	{
+		"word": "толковать",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "постукивает",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "запечатлевающий",
+		"missedLetter": "е",
+		"missedIndex": 8,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "сеющий",
+		"missedLetter": "ю",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "заночевать",
+		"missedLetter": "е",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "рисовать",
+		"missedLetter": "о",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "подразумевать",
+		"missedLetter": "е",
+		"missedIndex": 8,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "намереваться",
+		"missedLetter": "е",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "раскраивать",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "подмаргивающий",
+		"missedLetter": "и",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "овладевая",
+		"missedLetter": "е",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "затмевающий",
+		"missedLetter": "е",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "удваивавший",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "овладевающий",
+		"missedLetter": "е",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "выстраивая",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "оглядываться",
+		"missedLetter": "ы",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["о", "ы"]
+	},
+	{
+		"word": "опаздывать",
+		"missedLetter": "ы",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["о", "ы"]
+	},
+	{
+		"word": "обескровить",
+		"missedLetter": "и",
+		"missedIndex": 8,
+		"context": "противников",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "лестничка",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "грушевый",
+		"missedLetter": "е",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["е", "о"]
+	},
+	{
+		"word": "нищета",
+		"missedLetter": "е",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "мотылёчек",
+		"missedLetter": "е",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "локтевой",
+		"missedLetter": "е",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "прямота",
+		"missedLetter": "о",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "фланелевый",
+		"missedLetter": "е",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "заносчивый",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "отраслевой",
+		"missedLetter": "е",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "махонький",
+		"missedLetter": "о",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "опрометчивый",
+		"missedLetter": "и",
+		"missedIndex": 8,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "оранжевый",
+		"missedLetter": "е",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "синеватый",
+		"missedLetter": "е",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "остренький",
+		"missedLetter": "е",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "милостивый",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "тканевый",
+		"missedLetter": "е",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "листик",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "влюбчивый",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "заботливый",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "рулевой",
+		"missedLetter": "е",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "глянцевитая",
+		"missedLetter": "е",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "воробушек",
+		"missedLetter": "е",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е", "о"]
+	},
+	{
+		"word": "забывчивость",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "сухонький",
+		"missedLetter": "о",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "молодцеватая",
+		"missedLetter": "е",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "миндалевый",
+		"missedLetter": "е",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "неразборчивый",
+		"missedLetter": "и",
+		"missedIndex": 9,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "гелевый",
+		"missedLetter": "е",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "ступенчатый",
+		"missedLetter": "а",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["а", "и"]
+	},
+	{
+		"word": "завистливый",
+		"missedLetter": "и",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "большинство",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "милостивый",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Остальное", "Исключение"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "затейливый",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "заманчивый",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "беленький",
+		"missedLetter": "е",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "усидчивость",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "книжица",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "талантливый",
+		"missedLetter": "и",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "гномик",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "семечко",
+		"missedLetter": "е",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е", "я"]
+	},
+	{
+		"word": "июльский",
+		"missedLetter": "с",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["с", "ц"]
+	},
+	{
+		"word": "рыбацкий",
+		"missedLetter": "ц",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["с", "ц"]
+	},
+	{
+		"word": "маменька",
+		"missedLetter": "е",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "паинька",
+		"missedLetter": "и",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Остальное", "Исключение"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "выносливый",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "студенчество",
+		"missedLetter": "е",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "юродивый",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Остальное", "Исключение"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "деловой",
+		"missedLetter": "о",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "фланелевый",
+		"missedLetter": "е",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "красноватый",
+		"missedLetter": "о",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "крупитчатый",
+		"missedLetter": "а",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["а", "о"]
+	},
+	{
+		"word": "хитренький",
+		"missedLetter": "е",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "восьмеричный",
+		"missedLetter": "е",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "соевый",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "податливый",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "боевой",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "циркониевый",
+		"missedLetter": "е",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "черкешенка",
+		"missedLetter": "е",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Остальное", "Исключение"],
+		"options": ["е", "о"]
+	},
+	{
+		"word": "быстренько",
+		"missedLetter": "е",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "алюминиевый",
+		"missedLetter": "е",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "тополиный",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Остальное"],
+		"options": ["и", "е"]
+	}
+]

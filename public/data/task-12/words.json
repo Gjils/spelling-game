@@ -1,0 +1,802 @@
+[
+	{
+		"word": "скоропортящиеся",
+		"missedLetter": "я",
+		"missedIndex": 9,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "моющиеся",
+		"missedLetter": "ю",
+		"missedIndex": 2,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "дорогостоящая",
+		"missedLetter": "я",
+		"missedIndex": 9,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "выкрикивающая",
+		"missedLetter": "ю",
+		"missedIndex": 9,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "посылаемый",
+		"missedLetter": "е",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "оклеиваемый",
+		"missedLetter": "е",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "внемлющий",
+		"missedLetter": "ю",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "пригреваемый",
+		"missedLetter": "е",
+		"missedIndex": 8,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "подозреваемый",
+		"missedLetter": "е",
+		"missedIndex": 9,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "лелеющая",
+		"missedLetter": "ю",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "видимый",
+		"missedLetter": "и",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "летящий",
+		"missedLetter": "я",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "волнующийся",
+		"missedLetter": "ю",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "прогреваемое",
+		"missedLetter": "е",
+		"missedIndex": 8,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "брюзжащий",
+		"missedLetter": "а",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["а", "у"]
+	},
+	{
+		"word": "дышащий",
+		"missedLetter": "а",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["а", "у"]
+	},
+	{
+		"word": "скачущий",
+		"missedLetter": "у",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["а", "у"]
+	},
+	{
+		"word": "ненавидящий",
+		"missedLetter": "я",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "слышащий",
+		"missedLetter": "а",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["а", "у"]
+	},
+	{
+		"word": "кружащий",
+		"missedLetter": "а",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["а", "у"]
+	},
+	{
+		"word": "наклеивший",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "зависимый",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "нянчащая",
+		"missedLetter": "а",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["а", "у"]
+	},
+	{
+		"word": "преобразуемый",
+		"missedLetter": "е",
+		"missedIndex": 9,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "вычитаемые",
+		"missedLetter": "е",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "сломленный",
+		"missedLetter": "е",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "шепчущий (на ухо)",
+		"missedLetter": "у",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["а", "у"]
+	},
+	{
+		"word": "дышащий",
+		"missedLetter": "а",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["а", "у"]
+	},
+	{
+		"word": "щекочущий",
+		"missedLetter": "у",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["а", "у"]
+	},
+	{
+		"word": "лечащий",
+		"missedLetter": "а",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["а", "у"]
+	},
+	{
+		"word": "знающий",
+		"missedLetter": "ю",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "выстоявшая",
+		"missedLetter": "я",
+		"missedIndex": 5,
+		"context": "армия",
+		"type": ["Причастия"],
+		"options": ["е", "я"]
+	},
+	{
+		"word": "независимый",
+		"missedLetter": "и",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "мыслимый",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "нарушаемый",
+		"missedLetter": "е",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "предполагаемый",
+		"missedLetter": "е",
+		"missedIndex": 10,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "невидимый",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "непромокаемый",
+		"missedLetter": "е",
+		"missedIndex": 9,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "замеченный",
+		"missedLetter": "е",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "движимый",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Причастия", "Исключение"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "сверивший",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "накануне",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "нарушивший",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"context": "права",
+		"type": ["Причастия"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "доносятся",
+		"missedLetter": "я",
+		"missedIndex": 5,
+		"context": "звуки",
+		"type": ["Глаголы"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "переловят",
+		"missedLetter": "я",
+		"missedIndex": 7,
+		"context": "рыбаки",
+		"type": ["Глаголы"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "нарушает",
+		"missedLetter": "е",
+		"missedIndex": 6,
+		"context": "водитель",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "спилится (верхушка дерева)",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "борется",
+		"missedLetter": "е",
+		"missedIndex": 3,
+		"context": "народ",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "усвоишь",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "вышлет",
+		"missedLetter": "е",
+		"missedIndex": 4,
+		"context": "бабушка",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "бросаешь",
+		"missedLetter": "е",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "красит",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "маляр",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "встретишь",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "капризничает",
+		"missedLetter": "е",
+		"missedIndex": 10,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "независимый",
+		"missedLetter": "и",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "строится",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "дом",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "трудятся",
+		"missedLetter": "я",
+		"missedIndex": 4,
+		"context": "электрики",
+		"type": ["Глаголы"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "бросают",
+		"missedLetter": "ю",
+		"missedIndex": 5,
+		"context": "игроки",
+		"type": ["Глаголы"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "парят",
+		"missedLetter": "я",
+		"missedIndex": 3,
+		"context": "облака",
+		"type": ["Глаголы"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "катится",
+		"missedLetter": "и",
+		"missedIndex": 3,
+		"context": "шар",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "поставят",
+		"missedLetter": "я",
+		"missedIndex": 6,
+		"context": "архитекторы",
+		"type": ["Глаголы"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "плачет",
+		"missedLetter": "е",
+		"missedIndex": 4,
+		"context": "малыш",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "бросишь",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "усвоят",
+		"missedLetter": "я",
+		"missedIndex": 4,
+		"context": "ученики",
+		"type": ["Глаголы"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "кудахчет",
+		"missedLetter": "е",
+		"missedIndex": 6,
+		"context": "курица",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "запевают",
+		"missedLetter": "ю",
+		"missedIndex": 6,
+		"context": "пионеры",
+		"type": ["Глаголы"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "тревожат",
+		"missedLetter": "а",
+		"missedIndex": 6,
+		"context": "(меня / мысли)",
+		"type": ["Глаголы"],
+		"options": ["а", "у"]
+	},
+	{
+		"word": "дружат",
+		"missedLetter": "а",
+		"missedIndex": 4,
+		"context": "соседи",
+		"type": ["Глаголы"],
+		"options": ["а", "у"]
+	},
+	{
+		"word": "реет",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "флаг",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "зреет",
+		"missedLetter": "е",
+		"missedIndex": 3,
+		"context": "зерно",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "заносят",
+		"missedLetter": "я",
+		"missedIndex": 5,
+		"context": "грузчики",
+		"type": ["Глаголы"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "сушат",
+		"missedLetter": "а",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["а", "у"]
+	},
+	{
+		"word": "рисуют",
+		"missedLetter": "ю",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "предъявит",
+		"missedLetter": "и",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "рассмотришь",
+		"missedLetter": "и",
+		"missedIndex": 8,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "вынуждаешь",
+		"missedLetter": "е",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "задремлешь",
+		"missedLetter": "е",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "задрапируешь",
+		"missedLetter": "е",
+		"missedIndex": 9,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "произносишь",
+		"missedLetter": "и",
+		"missedIndex": 8,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "рокочет",
+		"missedLetter": "е",
+		"missedIndex": 5,
+		"context": "мотор",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "служит",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "боец",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "дремлешь",
+		"missedLetter": "е",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "лечишь",
+		"missedLetter": "и",
+		"missedIndex": 3,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "перекинешь",
+		"missedLetter": "е",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "разыгрывает",
+		"missedLetter": "е",
+		"missedIndex": 9,
+		"context": "он",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "граничат",
+		"missedLetter": "а",
+		"missedIndex": 6,
+		"context": "страны",
+		"type": ["Глаголы"],
+		"options": ["а", "у"]
+	},
+	{
+		"word": "строится",
+		"missedLetter": "и",
+		"missedIndex": 4,
+		"context": "школа",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "засмотришься",
+		"missedLetter": "и",
+		"missedIndex": 7,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "вышлет",
+		"missedLetter": "е",
+		"missedIndex": 4,
+		"context": "он",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "приходится (он / братом)",
+		"missedLetter": "и",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "трудятся",
+		"missedLetter": "я",
+		"missedIndex": 4,
+		"context": "рабочие",
+		"type": ["Глаголы"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "колеблешься",
+		"missedLetter": "е",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "выделишь",
+		"missedLetter": "и",
+		"missedIndex": 5,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "произносишь",
+		"missedLetter": "и",
+		"missedIndex": 8,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "щиплешь",
+		"missedLetter": "е",
+		"missedIndex": 4,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "смеркается",
+		"missedLetter": "е",
+		"missedIndex": 6,
+		"context": "",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "мерещатся",
+		"missedLetter": "а",
+		"missedIndex": 5,
+		"context": "тени",
+		"type": ["Глаголы"],
+		"options": ["а", "у"]
+	},
+	{
+		"word": "топится",
+		"missedLetter": "и",
+		"missedIndex": 3,
+		"context": "печка",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	},
+	{
+		"word": "отпустят",
+		"missedLetter": "я",
+		"missedIndex": 6,
+		"context": "родители",
+		"type": ["Глаголы"],
+		"options": ["ю", "я"]
+	},
+	{
+		"word": "выручат",
+		"missedLetter": "а",
+		"missedIndex": 5,
+		"context": "друзья",
+		"type": ["Глаголы"],
+		"options": ["а", "у"]
+	},
+	{
+		"word": "роет",
+		"missedLetter": "е",
+		"missedIndex": 2,
+		"context": "крот",
+		"type": ["Глаголы"],
+		"options": ["и", "е"]
+	}
+]

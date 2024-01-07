@@ -1112,10 +1112,10 @@
 		"options": ["и", "е"]
 	},
 	{
-		"word": "претворяется (в жизнь)",
+		"word": "претворяется",
 		"missedLetter": "е",
 		"missedIndex": 2,
-		"context": "",
+		"context": "в жизнь",
 		"type": ["Пре/при"],
 		"options": ["и", "е"]
 	},

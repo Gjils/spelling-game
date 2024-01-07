@@ -36,7 +36,7 @@
 		"missedLetter": "о",
 		"missedIndex": 3,
 		"options": ["а", "о"],
-		"context": "под дождм",
+		"context": "под дожёдм",
 		"type": ["Чередующиеся"]
 	},
 	{
@@ -704,7 +704,7 @@
 		"type": ["Непроверяемые", "Исключение"]
 	},
 	{
-		"word": "ошеломлнный",
+		"word": "ошеломлённый",
 		"missedLetter": "е",
 		"missedIndex": 2,
 		"options": ["и", "е"],
