@@ -35,4 +35,5 @@ Advantages:
 > Desktop green light
 
 ![Mobile green light](https://github.com/Gjils/spelling-game/blob/main/preview/mobile-green-light.jpg) 
-
+  
+> Monile green light
