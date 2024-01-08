@@ -28,7 +28,7 @@ Advantages:
 
 ![Desktop purple dark](https://github.com/Gjils/spelling-game/blob/main/preview/desktop-purple-dark.jpg)
 
-Desktop purple dark
+> Desktop purple dark
 
 ![Desktop green light](https://github.com/Gjils/spelling-game/blob/main/preview/desktop-green-light.jpg)
   
