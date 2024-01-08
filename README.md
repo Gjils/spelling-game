@@ -1,8 +1,38 @@
-# React + Vite
+# [Spelling](https://gjils.github.io/spelling-game/)
+  
+Spelling game is an extention of my previous project. Now you have to choose the correct letter instead the accent. I fully rewrote all code with react
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Stack](https://skillicons.dev/icons?i=figma,react)](https://skillicons.dev)
 
-Currently, two official plugins are available:
+***
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Advantages:
+
+* Pleasant UI
+
+* You can choose from 4 tasks
+
+* You can see your stats and level. Data is not reset after reloading
+ 
+* You can switch between dark and light theme and change background color
+ 
+* The app is adaptated for most screen resolutions
+
+***
+ 
+## Preview
+  
+![Desktop purple light](https://github.com/Gjils/spelling-game/blob/main/preview/desktop-purple-light.jpg)
+
+> Desktop purple light
+
+![Desktop purple dark](https://github.com/Gjils/spelling-game/blob/main/preview/desktop-purple-dark.jpg)
+
+Desktop purple dark
+
+![Desktop green light](https://github.com/Gjils/spelling-game/blob/main/preview/desktop-green-light.jpg)
+  
+> Desktop green light
+
+![Mobile green light](https://github.com/Gjils/spelling-game/blob/main/preview/mobile-green-light.jpg) 
+
