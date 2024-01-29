@@ -6,7 +6,7 @@ Spelling game is an extention of my previous project. Now you have to choose the
 
 ***
 
-Advantages:
+## Advantages:
 
 * Pleasant UI
 
